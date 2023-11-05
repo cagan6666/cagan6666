@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cagan6666
+- 👀 I’m interested in programmin with c++
+- 🌱 I’m currently learning c++
+- 📫 How to reach me with my e-mail [evanafton2015@gmail.com]
